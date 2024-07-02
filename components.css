@@ -1,0 +1,50 @@
+.back{
+    height: 100vh;
+    background-size: cover;
+    background-image: url("bg.jpg");
+}
+.heading{
+    font-size: 25px;
+    font-style: italic;
+    position: relative;
+left: 520px;
+color: brown;
+font-style: italic;
+}
+.card{
+    background-color:bisque;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.heading2{
+    font-size: 20px;
+    font-style: italic;
+}
+.img{
+    height: 25vh;
+    position: relative;
+    left: 100px;
+}
+.img2{
+    height: 30vh;
+    position: relative;
+    left: 200px;
+}
+.img3{
+    height: 30vh;
+    position: relative;
+    left: 300px;
+}
+.img4{
+    height: 30vh;
+    position: relative;
+    left: 400px;
+}
+.btn1{
+    position: relative;
+    top: 190px;
+    right: 270px;
+    font-style: italic;
+    border-radius: 20px;
+}
